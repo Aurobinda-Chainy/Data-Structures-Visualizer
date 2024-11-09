@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#visulizer-container{
+    margin-top: 20px;
+}
+
+#array-display{
+    margin-top: 10px;
+}
