@@ -1,0 +1,14 @@
+# Ignore all compiled Java class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore target build folder (if you use Maven or other build tools later)
+target/
